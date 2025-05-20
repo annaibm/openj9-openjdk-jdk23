@@ -219,6 +219,7 @@ $(foreach file, \
 		migration \
 		osmemory29 \
 		SharedClassesNativeAgent \
+        sharedClasses \
 		softmxtest \
 		testjvmtiA \
 		testjvmtiB \
